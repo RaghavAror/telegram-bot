@@ -78,20 +78,20 @@ The bot can perform **web searches** based on user input using the `aiohttp` lib
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/chatbot-project.git
-cd chatbot-project
+git clone https://github.com/RaghavAror/telegram-bot.git
+cd telegram-bot
 ```
+2. Create a downloads/ folder in the directory.
 
-2. Install all libraries.
+3. Install all libraries.
 ```bash
 pip install -r requirements.txt
 ```
-3. Run the bot.
+4. Run the bot.
 ```bash
 python main.py
 ```
-4. To see the dashboard run following command.
+5. To see the dashboard run following command.
 ```bash
 python -m uvicorn analytics:app --reload 
 ```
-"# telegram-bot" 
