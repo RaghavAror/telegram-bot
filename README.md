@@ -1,4 +1,4 @@
-# Project Name: Chatbot with Advanced Features
+# Project Name: Telegram bot
 
 ## Overview
 This project implements a chatbot that integrates multiple advanced features such as image processing, document analysis, sentiment analysis, and AI-based text generation. The bot can handle user inputs, process images to extract text using OCR, analyze PDFs, and interact with generative AI models for intelligent responses. Additionally, the bot offers sentiment analysis with emoticons for user feedback and performs web searches based on user input.
